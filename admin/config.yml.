@@ -1,0 +1,8 @@
+backend:
+  name: github
+  repo: denishorhedenis-spec/tatiana-salon
+  branch: main
+  auth_scope: repo
+  cms_oauth_app:
+    client_id: СЮДА_ВСТАВЬ_ДЛИННЫЙ_КОД_ID
+    client_secret: СЮДА_ВСТАВЬ_ДЛИННЫЙ_КОД_SECRET
