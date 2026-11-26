@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: denishorhedenis-spec/tatiana-salon
-  branch: main
+  branch: master
   auth_scope: repo
 
 media_folder: "assets/images"
